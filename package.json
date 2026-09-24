@@ -1,5 +1,5 @@
 {
-  "name": "feishu-sidebarplugin-homepagedata",
+  "name": "feishu-sidebarplugin-douyindata-release",
   "version": "20260924",
   "description": "飞书主页链接插件 - 抖音主页数据获取工具",
   "output": "dist",
